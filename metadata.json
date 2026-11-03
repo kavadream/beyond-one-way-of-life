@@ -1,0 +1,102 @@
+{
+  "title": "不被一种活法困住",
+  "title_en": "Beyond One Way of Life",
+  "author": "KK",
+  "language": "zh-CN",
+  "version": "draft-v0.1",
+  "date": "2026-11-03",
+  "status": "original-ai-assisted-draft-awaiting-author-review",
+  "preface": "chapters/00-preface.md",
+  "chapters": [
+    {
+      "id": "ch01",
+      "title": "第一章　饭桌上没有写出的名次",
+      "file": "chapters/01-the-table.md",
+      "han_characters": 1459
+    },
+    {
+      "id": "ch02",
+      "title": "第二章　三十五岁以后还剩什么",
+      "file": "chapters/02-the-clock.md",
+      "han_characters": 1468
+    },
+    {
+      "id": "ch03",
+      "title": "第三章　那把一直没有卖掉的椅子",
+      "file": "chapters/03-usefulness.md",
+      "han_characters": 1424
+    },
+    {
+      "id": "ch04",
+      "title": "第四章　摘下工牌以后怎样介绍自己",
+      "file": "chapters/04-after-the-title.md",
+      "han_characters": 1435
+    },
+    {
+      "id": "ch05",
+      "title": "第五章　转行的人没有回到零岁",
+      "file": "chapters/05-changing-banks.md",
+      "han_characters": 1417
+    },
+    {
+      "id": "ch06",
+      "title": "第六章　别人说的话要住在哪里",
+      "file": "chapters/06-other-voices.md",
+      "han_characters": 1486
+    },
+    {
+      "id": "ch07",
+      "title": "第七章　不必把每场争论变成决斗",
+      "file": "chapters/07-disagreement.md",
+      "han_characters": 1448
+    },
+    {
+      "id": "ch08",
+      "title": "第八章　不能远走的人也需要空间",
+      "file": "chapters/08-room-to-move.md",
+      "han_characters": 1449
+    },
+    {
+      "id": "ch09",
+      "title": "第九章　轻松不是没有用力",
+      "file": "chapters/09-practised-ease.md",
+      "han_characters": 1456
+    },
+    {
+      "id": "ch10",
+      "title": "第十章　失去以后不必立刻变得通达",
+      "file": "chapters/10-after-loss.md",
+      "han_characters": 1436
+    },
+    {
+      "id": "ch11",
+      "title": "第十一章　想要更多也可以诚实",
+      "file": "chapters/11-wanting-more.md",
+      "han_characters": 1552
+    },
+    {
+      "id": "ch12",
+      "title": "第十二章　让所爱的人长成别的样子",
+      "file": "chapters/12-room-for-others.md",
+      "han_characters": 1572
+    },
+    {
+      "id": "ch13",
+      "title": "第十三章　一个下午不必交出成果",
+      "file": "chapters/13-an-ordinary-afternoon.md",
+      "han_characters": 1452
+    },
+    {
+      "id": "ch14",
+      "title": "第十四章　地图可以留着没有画完的地方",
+      "file": "chapters/14-the-unfinished-map.md",
+      "han_characters": 1725
+    }
+  ],
+  "chapter_count": 14,
+  "body_han_characters": 21724,
+  "sources": "sources/README.md",
+  "copyright": "COPYRIGHT.md",
+  "fiction_notice": "All contemporary characters, dialogue, events and example figures are original fiction.",
+  "translation_status": "English manuscript not included in this source package."
+}

@@ -1,0 +1,116 @@
+{
+  "title": "不被一种活法困住",
+  "author": "KK",
+  "version": "draft-v0.1",
+  "review_status": "awaiting author review",
+  "chapter_count": 14,
+  "body_han_characters": 21724,
+  "files": [
+    {
+      "path": "BOOK.md",
+      "bytes": 80879,
+      "sha256": "a8b539a7da6f0cf6489b05e9def76279a23c49f66fe7e12eae012f185a62f600"
+    },
+    {
+      "path": "CHANGELOG.md",
+      "bytes": 460,
+      "sha256": "00bc36ca52fe6cef4dc1ac2b1904c27839c08760715d2d70f29677a138e906fc"
+    },
+    {
+      "path": "COPYRIGHT.md",
+      "bytes": 1626,
+      "sha256": "d5ae722998f2bee22e9fa466cf1289c362bca51e4046a1982101d78649bf9d48"
+    },
+    {
+      "path": "README.md",
+      "bytes": 2034,
+      "sha256": "d45a4f4052d4f994879bcc5370df06d36d0094244de5423823e312c5f11d7fbb"
+    },
+    {
+      "path": "chapters/00-preface.md",
+      "bytes": 3185,
+      "sha256": "bc2cd873d89e26052199481e685b7e169035cc5ee0f254c8fd2a0ec1e728e138"
+    },
+    {
+      "path": "chapters/01-the-table.md",
+      "bytes": 4950,
+      "sha256": "10c067f7c4f512af3d81f049c5fcb30ca4935cb3be18ae0e9ce12813b5bab820"
+    },
+    {
+      "path": "chapters/02-the-clock.md",
+      "bytes": 4944,
+      "sha256": "da6b0a4317a0e084dd81203b4e51060786f61926c0c2681a3a0730c95ab4d205"
+    },
+    {
+      "path": "chapters/03-usefulness.md",
+      "bytes": 4799,
+      "sha256": "3d62e39bad12c1fba48a21d9bbf8e9d68b55febe3d9f9fd96c393061003ecc73"
+    },
+    {
+      "path": "chapters/04-after-the-title.md",
+      "bytes": 4821,
+      "sha256": "6ad913ed23a3315c8cbb4c1416591de0a05a175978a11aa5d1a255e8ea3e516b"
+    },
+    {
+      "path": "chapters/05-changing-banks.md",
+      "bytes": 4767,
+      "sha256": "fc3cb9d6f94c7a548247e41b484d73247a1443debe444013964f4d1b697b1d78"
+    },
+    {
+      "path": "chapters/06-other-voices.md",
+      "bytes": 4983,
+      "sha256": "ac2955e9b229c49a01169d298ef3325736a109b91a0b9c081bb31bb68a2b96bc"
+    },
+    {
+      "path": "chapters/07-disagreement.md",
+      "bytes": 4812,
+      "sha256": "581a3d8e8ee5a5c53008b0f781e7b76af7ea3dedd30f111c3dd2d26caf2f1c6c"
+    },
+    {
+      "path": "chapters/08-room-to-move.md",
+      "bytes": 4858,
+      "sha256": "ce4bd46fda67f083e031ff09193c49e04f9382550466abc7fd31e7c5be6a5d82"
+    },
+    {
+      "path": "chapters/09-practised-ease.md",
+      "bytes": 4909,
+      "sha256": "7d6c0249d8a3fdc8a8524d5c78830e4704f4aaf96add03111984fba916ad2c5d"
+    },
+    {
+      "path": "chapters/10-after-loss.md",
+      "bytes": 4794,
+      "sha256": "d66374df64033d3bc0552152c06131d17f2c972f8d9b13c4f07f617dbbcf1232"
+    },
+    {
+      "path": "chapters/11-wanting-more.md",
+      "bytes": 5192,
+      "sha256": "527b6b5a914af948b961f9255fa5962053b7c0c4c6c1acc8daf84f513a3c8edc"
+    },
+    {
+      "path": "chapters/12-room-for-others.md",
+      "bytes": 5249,
+      "sha256": "1fb7bc7d233ff51687413b79b2c7ab90857a6bdc08b5e1542242b03fe172dcfa"
+    },
+    {
+      "path": "chapters/13-an-ordinary-afternoon.md",
+      "bytes": 4869,
+      "sha256": "0834942d8bf713d38e042c72b626c0bc601d9aca64ec329cb7ae888c25d83f08"
+    },
+    {
+      "path": "chapters/14-the-unfinished-map.md",
+      "bytes": 5776,
+      "sha256": "0613d0ec50c1dac67df0173d6a9ae9a24566c524f8b68daaebfc8f119099976b"
+    },
+    {
+      "path": "metadata.json",
+      "bytes": 3015,
+      "sha256": "49ea43f2318604e4c21d3d57abe72ed88dabe72b7c0cfb7b91657e62b0172dc6"
+    },
+    {
+      "path": "sources/README.md",
+      "bytes": 6872,
+      "sha256": "200205cc29c63b0d8247be9bdd8e2f9c9008684f2957781490a12412913ba061"
+    }
+  ],
+  "manifest_scope": "All source package files except MANIFEST.json itself; PDF, EPUB and English manuscript are not included."
+}
