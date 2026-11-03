@@ -2,7 +2,7 @@
   "title": "不被一种活法困住",
   "author": "KK",
   "version": "draft-v0.1",
-  "review_status": "awaiting author review",
+  "review_status": "content accepted by author",
   "chapter_count": 14,
   "body_han_characters": 21724,
   "files": [
@@ -23,8 +23,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 2034,
-      "sha256": "d45a4f4052d4f994879bcc5370df06d36d0094244de5423823e312c5f11d7fbb"
+      "bytes": 2172,
+      "sha256": "eaa26e37e8adf44d457f8a43c840b4851d385a86d73e6741bb75d1bb2dc56f9f"
     },
     {
       "path": "chapters/00-preface.md",
@@ -103,8 +103,8 @@
     },
     {
       "path": "metadata.json",
-      "bytes": 3015,
-      "sha256": "49ea43f2318604e4c21d3d57abe72ed88dabe72b7c0cfb7b91657e62b0172dc6"
+      "bytes": 3019,
+      "sha256": "febf774f1118201c5edda9a02cdc02255e377e55e79b6a5c40bd1cb7fb001f3a"
     },
     {
       "path": "sources/README.md",
