@@ -22,6 +22,14 @@
 
 *Beyond One Way of Life*, by KK, is a complete Chinese first draft in fourteen interconnected, story-led chapters. Inspired by the Zhuangzi, it explores comparison, age pressure, professional identity, transitions, external judgment, care, ambition, relationships, loss, and ordinary leisure. Ancient texts and modern extrapolation are kept distinct. All contemporary characters and scenes are original fiction.
 
-The author has accepted the content of this AI-assisted draft; it is not a finalized publication. Chinese is the author's first language. When an English edition becomes available, suggestions from native English readers on clarity and natural phrasing will be welcome. An English manuscript is not included in this source package.
+The author has accepted the content of this AI-assisted draft; it is not a finalized publication. Chinese is the author's first language. A complete AI-assisted [English translation preview](translations/en/book.md) is now available. Corrections from native English readers on clarity and natural phrasing are welcome; native-English review is pending.
 
 Corrections are welcome; public access does not grant an open licence or automatically transfer contributors’ rights. See COPYRIGHT.md for the rights notice.
+
+## 英文翻译预览
+
+- [完整英文译稿](translations/en/book.md)
+- [英文目录、来源与纠错说明](translations/en/README.md)
+- [英文版权说明](translations/en/COPYRIGHT.md)
+
+英文为完整的AI辅助翻译预览，尚待英语母语者校正，未经过人类目标语审阅。作者KK的母语是中文，欢迎英语母语读者通过本仓Issues或pull request提出准确性、措辞与可读性修正。中文内容已获作者验收；原有中文正文、来源和版权范围保持不变。

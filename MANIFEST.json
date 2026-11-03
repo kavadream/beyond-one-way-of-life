@@ -23,8 +23,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 2172,
-      "sha256": "eaa26e37e8adf44d457f8a43c840b4851d385a86d73e6741bb75d1bb2dc56f9f"
+      "bytes": 2713,
+      "sha256": "324b09a87361c740c357da81eff1bc44cd8c230e745d7e691a3da2a2b89d1886"
     },
     {
       "path": "chapters/00-preface.md",
@@ -103,13 +103,28 @@
     },
     {
       "path": "metadata.json",
-      "bytes": 3019,
-      "sha256": "febf774f1118201c5edda9a02cdc02255e377e55e79b6a5c40bd1cb7fb001f3a"
+      "bytes": 3043,
+      "sha256": "6113e4f1e60735926e265256254f54af6647f1d2268762c57456aa483becf934"
     },
     {
       "path": "sources/README.md",
       "bytes": 6872,
       "sha256": "200205cc29c63b0d8247be9bdd8e2f9c9008684f2957781490a12412913ba061"
+    },
+    {
+      "path": "translations/en/COPYRIGHT.md",
+      "bytes": 1257,
+      "sha256": "133899e616418d8c064c0f53e45e152073e6c575b2f2f7bc46c53342f891c6f4"
+    },
+    {
+      "path": "translations/en/README.md",
+      "bytes": 3918,
+      "sha256": "015d2b4718517846a191034104f47619c1559ca1e493ee0bc47e74003e6bf765"
+    },
+    {
+      "path": "translations/en/book.md",
+      "bytes": 101133,
+      "sha256": "b1f03d62e3402ab8d4c842945c1fd7d4116839a739df6bcb2fa88541c857dafa"
     }
   ],
   "manifest_scope": "All source package files except MANIFEST.json itself; PDF, EPUB and English manuscript are not included."
